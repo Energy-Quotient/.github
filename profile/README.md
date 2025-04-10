@@ -1,8 +1,10 @@
 # Energy Quotient™
 
-<a href="https://eq.systems">
-  <img src="logo.svg" alt="Energy Quotient Logo" width="280" />
-</a>
+<p align="center">
+  <a href="https://eq.systems">
+    <img src="logo.svg" alt="Energy Quotient Logo" width="280" />
+  </a>
+</p>
 
 ## Energy and power quality intelligence
 
@@ -34,4 +36,4 @@ We're currently preparing our developer program and API access. Stay connected:
 
 ---
 
-© Energy Quotient™. All trademarks belong to their respective owners.
+© 2025 Renewable Edge LLC dba Energy Quotient™. All rights reserved.
