@@ -14,7 +14,7 @@ We turn continuous waveform data into real-time, explainable insight that operat
 
 ## Focus Areas
 
-- Continuous Point-on-Wave (CPOW) power quality analysis
+- Detailed power quality and root cause analysis
 - Diagnostics for nuisance trips and unexplained equipment behavior
 - Power resilience for mission-critical infrastructure
 - Support for grid-connected and islanded systems
