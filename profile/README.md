@@ -37,7 +37,6 @@ We run structured pilot deployments and forensic power quality investigations wi
 - 💼 LinkedIn: https://www.linkedin.com/company/energy-quotient-inc
 - 🤝 Pilot inquiries: https://eq.systems/initiatives/pilot-program
 - 📩 Email: info@eq.systems
-- 📅 Schedule a conversation: https://meet.eq.systems/connect
 
 ---
 
